@@ -30,4 +30,4 @@ A step-by-step tutorial that covers creating a new application, adding and modif
 LSQ Local Tutorial: [LSQ Local Tutorial] 
 
 [Download LSQ Local v 0.2.0]: https://lsq.io/#local
-[LSQ Local Tutorial]: https://lsq.io
+[LSQ Local Tutorial]: /tutorial.md
