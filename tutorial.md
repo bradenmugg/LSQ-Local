@@ -18,15 +18,14 @@ Before beginning the tutorial you will need to set up an account with the follow
 
 - ####Sign up for Mailchimp: [https://login.mailchimp.com/signup](https://login.mailchimp.com/signup) 
   - Create a new List
-    - Get the unique ID for the list: 
-      - Navigate to ‘Lists’ 
-      - click on the down arrow for the list and select ‘Settings’ 
-      - Scroll to the bottom of the page 
-    - Get the API key: 
-      - Navigate to the your ‘Account’ page 
-      - In the ‘Extras’ section, select ‘API Keys’ 
-
-  - To complete the tutorial, you will need: 
+  - Get the unique ID for the list: 
+    - Navigate to ‘Lists’ 
+    - click on the down arrow for the list and select ‘Settings’ 
+    - Scroll to the bottom of the page
+  - Get the API key: 
+    - Navigate to the your ‘Account’ page 
+    - In the ‘Extras’ section, select ‘API Keys’
+  - To complete the tutorial, you will need:
     - projectID 
     - writeKey 
     - readKey 
@@ -44,7 +43,6 @@ Before beginning the tutorial you will need to set up an account with the follow
     3. Click ‘Create Application’ 
 
   *** This may take a minute. It is installing the application's NPM packages and initializing the LSQ monitoring *** 
-
 3. ####Run and monitor 
   1. Once your services are initialized, the start button will turn from gray to blue. Click the start button to start all of your services! 
   2. Click on the name of the application to view the services for your application. 
