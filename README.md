@@ -2,7 +2,7 @@
 
 LSQ Local is the first tool to allow you quickly and easily develop a **microservice architecture** application on your local machine.
 
-![Image of LSQ Local](https://s3.amazonaws.com/local.lsq.io/Screen+Shot+2015-03-19+at+7.47.36+PM+(1).png)
+![Image of LSQ Local](https://s3.amazonaws.com/local.lsq.io/Screen+Shot+2015-04-03+at+1.37.38+PM.png)
 
 ##Supported Platforms
 
