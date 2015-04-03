@@ -1,10 +1,10 @@
 #Welcome to LSQ!
 
 LSQ is the first tool to allow you to quickly build robust applications using a microservice architecture. This tutorial will walk you through creating a microservice application that:
-- collects email addresses
+- collects email address
 - adds them to a MailChimp list 
 - sends an email using SendGrid
-- reports the activity to KeenIO.
+- reports the activity to KeenIO
 
 Before beginning the tutorial you will need to set up an account with the following services:
 
