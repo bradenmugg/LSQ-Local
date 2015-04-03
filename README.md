@@ -18,8 +18,7 @@ LSQ Local is currently available for Mac OSX (64-bit).
 
 Everything that you need to get started is included in the LSQ Local application. We include the following applications in our application bundle:
 
-- io.js v1.5.1
-- consul (?)
+- io.js v1.6.2
 
 ##Download
 
