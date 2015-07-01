@@ -60,4 +60,4 @@ Before beginning the tutorial you will need to set up an account with the follow
       3. request.post(http://&lt;hostname/post&gt;/path)
 
 5. ####Deploy (coming soon)
-  - Our 3.0 release will include feww deployment for up to three applications! Stay tuned for more information.
+  - Our 3.0 release will include free deployment for up to three applications! Stay tuned for more information.
